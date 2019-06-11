@@ -8,7 +8,7 @@ import Watch from './components/Watch';
 import TV from './components/TV';
 import Music from './components/Music';
 import Support from './components/Support';
-
+// import styled from 'styled-components';
 import { Route } from 'react-router-dom';
 import './App.css';
 
