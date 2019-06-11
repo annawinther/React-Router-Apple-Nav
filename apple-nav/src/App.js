@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import Nav from '/Users/Anna/Lambda School/Sprint 8 - Single Page Applications (SPAs)/Day 2 - React Router II/React-Router-Apple-Nav/apple-nav/src/components/Nav.js';
 import Mac from './components/Mac';
 import iPad from './components/iPad';
@@ -11,6 +11,8 @@ import Support from './components/Support';
 
 import { Route } from 'react-router-dom';
 import './App.css';
+
+
 
 function App() {
   return (
